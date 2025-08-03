@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "Insert1stNodeToLast.C": "cpp",
+        "linkedlist.C": "cpp",
+        "binary_search.C": "cpp",
+        "stack_usinng_linkedlist.C": "cpp",
+        "Queue_using_array.C": "cpp"
+    }
+}
